@@ -1,4 +1,4 @@
-# 
+# elite Visual Studio PC版 插件 是最佳 Visual Studio PC版 插件，集成 C++支持 和 工作区管理。安全、可靠、优化，性能最大化。
 
 
 
